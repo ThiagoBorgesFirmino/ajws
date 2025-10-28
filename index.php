@@ -92,7 +92,7 @@
 			            	<a href="#specialization" class="js-target-scroll">Sistema</a>
 			            </li>
 			            <li>
-			            	<a href="#contact-section" class="js-target-scroll">Contact</a>
+			            	<a href="#contact-section" class="js-target-scroll">Contato</a>
 			            </li>
 			         </ul>
 		        </div>
@@ -697,7 +697,7 @@
 				      						<li><strong>Sem limite </strong> de usuários</li>
 				      						<li><strong>Integracão </strong> com Fornecedores</li>
 				      						<li><strong>Sistema de </strong> Orçamento Ágil</li>
-				      						<li><strong>uporte WhatsApp,</strong> fone e e-mail</li>
+				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
 					      					<a href="#" class="btn btn-b-dark">
@@ -726,7 +726,7 @@
 				      						<li><strong>Sem limite </strong> de usuários</li>
 				      						<li><strong>Integracão </strong> com Fornecedores</li>
 				      						<li><strong>Sistema de </strong> Orçamento Ágil</li>
-				      						<li><strong>uporte WhatsApp,</strong> fone e e-mail</li>
+				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
 					      					<a href="#" class="btn btn-yellow">
@@ -754,7 +754,7 @@
 				      						<li><strong>Sem limite </strong> de usuários</li>
 				      						<li><strong>Integracão </strong> com Fornecedores</li>
 				      						<li><strong>Sistema de </strong> Orçamento Ágil</li>
-				      						<li><strong>uporte WhatsApp,</strong> fone e e-mail</li>
+				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
 					      					<a href="#" class="btn btn-b-dark">
