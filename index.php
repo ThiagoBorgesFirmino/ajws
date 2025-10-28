@@ -8,14 +8,27 @@
 <head>
 <meta  charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SuperShot - Creative HTML Template</title> 
+<title>AJWS - Seu Site de Brindes</title> 
 
 <!-- Favicons -->
 
-<link rel="shortcut icon" href="favicon.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+<link rel="manifest" href="favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
 <!-- Fonts -->
 
@@ -78,12 +91,6 @@
 			            <li>
 			            	<a href="#specialization" class="js-target-scroll">Sistema</a>
 			            </li>
-			            <!-- <li>
-			            	<a href="#prices" class="js-target-scroll">Pricing</a>
-			            </li>
-			            <li>
-			            	<a href="#posts" class="js-target-scroll">News</a>
-			            </li> -->
 			            <li>
 			            	<a href="#contact-section" class="js-target-scroll">Contact</a>
 			            </li>
@@ -606,78 +613,6 @@
 			      </div>
 				</section>
 
-				<!-- Team -->
-
-				<!-- <section id="team" class="team text-center section">
-				   <div class="container">
-				      <div class="row">
-				        <header class="text-center col-md-6 col-md-offset-3">
-				        	<h2>Our team</h2>
-				        	<div class="delimiter"><div></div></div>
-				        	<p class="section-entry">The comments of some of our customers 100% satisfied with the tinished Projects ma and high quality and on time</p>
-				        </header>
-				      </div>
-				      <div class="section-body">
-				      	<div class="row-base row">
-					      	<div class="col-base col-sm-6 col-md-4">
-					      		<figure class="team-profile">
-					      			<img alt="" src="img/team/1.jpg">
-					      			<figcaption>
-					      				<div class="profile-info">
-						      				<h3 class="profile-name">Janez Novak</h3>
-						      				<p class="profile-spec">Manager</p>
-						      				<div class="team-social social-round">
-								   	   		<a href="#" class="fa fa-facebook"></a>
-								   	   		<a href="#" class="fa fa-twitter"></a>
-								   	   		<a href="#" class="fa fa-pinterest-p"></a>
-								   	   		<a href="#" class="fa fa-flickr"></a>
-								   	   		<a href="#" class="fa fa-dribbble"></a>
-								      	   </div>
-					      				</div>
-					      			</figcaption>
-					      		</figure>
-					      	</div>
-					      	<div class="col-base col-sm-6 col-md-4">
-					      		<figure class="team-profile">
-					      			<img alt="" src="img/team/2.jpg">
-					      			<figcaption>
-					      				<div class="profile-info">
-						      				<h3 class="profile-name">Eddie Punchclock</h3>
-						      				<p class="profile-spec">Creative director</p>
-						      				<div class="team-social social-round">
-								   	   		<a href="#" class="fa fa-facebook"></a>
-								   	   		<a href="#" class="fa fa-twitter"></a>
-								   	   		<a href="#" class="fa fa-pinterest-p"></a>
-								   	   		<a href="#" class="fa fa-flickr"></a>
-								   	   		<a href="#" class="fa fa-dribbble"></a>
-								      	   </div>
-					      				</div>
-					      			</figcaption>
-					      		</figure>
-					      	</div>
-					      	<div class="col-base col-sm-6 col-md-4">
-					      		<figure class="team-profile">
-					      			<img alt="" src="img/team/3.jpg">
-					      			<figcaption>
-					      				<div class="profile-info">
-						      				<h3 class="profile-name">Vinnie Boombotz</h3>
-						      				<p class="profile-spec">Designer</p>
-						      				<div class="team-social social-round">
-								   	   		<a href="#" class="fa fa-facebook"></a>
-								   	   		<a href="#" class="fa fa-twitter"></a>
-								   	   		<a href="#" class="fa fa-pinterest-p"></a>
-								   	   		<a href="#" class="fa fa-flickr"></a>
-								   	   		<a href="#" class="fa fa-dribbble"></a>
-								      	   </div>
-					      				</div>
-					      			</figcaption>
-					      		</figure>
-					      	</div>
-				      	</div>
-				      </div>
-				   </div>
-				</section> -->
-
 				<!-- Specialization -->
 
 				<section id="specialization" class="specialization text-center section">
@@ -775,38 +710,6 @@
 				      			</div>
 				      		</div>
 							
-
-
-
-
-				      		<!-- <div class="col-price col-base col-sm-6 col-md-3">
-				      			<div class="price-table">
-				      				<div class="price-header">
-											<h3 class="price-title">Business plan</h3>
-											<p class="price-type">For business</p>
-				      				</div>
-				      				<div class="price">
-				      					<div class="price-amount">$39<sub>.99</sub></div>
-				      					<div class="price-period">per month</div>
-				      				</div>
-				      				<div class="price-body">
-				      					<ul class="price-features">
-				      						<li><strong>Full</strong> Access</li>
-				      						<li><strong>400</strong> Users Acounts</li>
-				      						<li><strong>50Gb</strong> Space</li>
-				      						<li><strong>1 year</strong> License</li>
-				      						<li>Phone & Email Support</li>
-				      					</ul>
-				      					<div class="price-footer">
-					      					<a href="#" class="btn btn-b-dark">
-								            	<span class="text">Buy now</span>
-								            	<span class="flip-front">Buy now</span>
-								            	<span class="flip-back">Buy now</span>
-								            </a>
-							            </div>
-				      				</div>
-				      			</div>
-				      		</div> -->
 				      		<div class="leading col-price col-base col-sm-6 col-md-4 wow flipInY">
 				      			<div class="price-table">
 				      				<div class="price-header">
@@ -886,146 +789,6 @@
 				      </div>
 				   </div>
 				</section>
-
-				<!-- Blog -->
-
-				<!-- <section id="posts" class="posts section">
-					<div class="container">
-						<div class="row">
-							<header class="text-center col-md-6 col-md-offset-3">
-					        	<h2>Recent News</h2>
-					        	<div class="delimiter"><div></div></div>
-					        	<p class="section-entry">The comments of some of our customers 100% satisfied with the tinished Projects ma and high quality and on time</p>
-				        </header>
-			         </div>
-					   <div class="section-body">
-			      		<article class="post">
-			      			<div class="post-preview post-box col-md-6">
-			      				<a href="#" class="post-like"><i class="fa fa-heart-o"></i></a>
-			      				<iframe height="315" src="https://www.youtube.com/embed/oLcz6IfecaA?modestbranding=1&amp;rel=0&amp;showinfo=0" allowfullscreen></iframe>
-			      			</div>
-			      			<div class="post-entry post-box col-md-6">
-			      				<h2 class="post-title"><a href="#">Standard YouTube Video Post</a></h2>
-			      				<ul class="post-info">
-			      					<li><a href="#">Simon McCool</a></li>
-			      					<li>01, 05 2016</li>
-			      					<li><a href="#">Travel</a></li>
-			      				</ul>
-		      					<p>Phasellus pulvinar iaculis nunc at placerat. Sed porta sollicitudin eros, 
-		      					vel sagittis turpis consequat nec. Donec ac viverra ligula, in scelerisque leo. Proin massa quam, ornare in . . <a href="#">read more</a></p>
-		      					<ul class="post-meta">
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-comment-o"></i>
-		      								8,312
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-bar-chart-o"></i>
-		      								23,192
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-share"></i>
-		      								13,430
-		      							</a>
-		      						</li>
-		      					</ul>
-			      			</div>
-			      		</article>
-			      		<article class="post even">
-			      			<div class="post-preview post-box col-md-6 col-md-push-6">
-			      				<a href="#" class="post-like"><i class="fa fa-heart-o"></i></a>
-			      				<img alt="" src="img/posts/1-570x320.jpg">
-			      			</div>
-			      			<div class="post-entry post-box col-md-6 col-md-pull-6">
-			      				<h2 class="post-title"><a href="#">Amazing Post Image Style One</a></h2>
-			      				<ul class="post-info">
-			      					<li><a href="#">Simon McCool</a></li>
-			      					<li>24, 04 2016</li>
-			      					<li><a href="#">Fashion</a></li>
-			      				</ul>
-			      				<p>Phasellus pulvinar iaculis nunc at placerat. Sed porta sollicitudin eros, 
-			      				vel sagittis turpis consequat nec. Donec ac viverra ligula, in scelerisque leo. Proin massa quam, ornare in . . <a href="#">read more</a></p>
-		      					<ul class="post-meta">
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-comment-o"></i>
-		      								8,312
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-bar-chart-o"></i>
-		      								23,192
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-share"></i>
-		      								13,430
-		      							</a>
-		      						</li>
-		      					</ul>
-			      			</div>
-			      		</article>
-			      		<article class="post">
-			      			<div class="post-preview post-box col-md-6">
-			      				<a href="#" class="post-like"><i class="fa fa-heart-o"></i></a>
-			      				<div class="post-gallery js-post-gallery">
-			      					<div>
-			      						<img alt="" src="img/posts/gallery/1-570x320.jpg">
-			      					</div>
-			      					<div>
-			      						<img alt="" src="img/posts/gallery/2-570x320.jpg">
-			      					</div>
-			      				</div>
-			      			</div>
-			      			<div class="post-entry post-box col-md-6">
-			      				<h2 class="post-title"><a href="#">Amazing Post standar Slide Gallery</a></h2>
-			      				<ul class="post-info">
-			      					<li><a href="#">Simon McCool</a></li>
-			      					<li>24, 04 2016</li>
-			      					<li><a href="#">Fashion</a></li>
-			      				</ul>
-			      				<div class="post-preview-content">
-			      					<p>Phasellus pulvinar iaculis nunc at placerat. Sed porta sollicitudin eros, 
-			      					vel sagittis turpis consequat nec. Donec ac viverra ligula, in scelerisque leo. Proin massa quam, ornare in . . <a href="#">read more</a></p>
-			      				</div>
-		      					<ul class="post-meta">
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-comment-o"></i>
-		      								8,312
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-bar-chart-o"></i>
-		      								23,192
-		      							</a>
-		      						</li>
-		      						<li>
-		      							<a href="">
-		      								<i class="fa fa-share"></i>
-		      								13,430
-		      							</a>
-		      						</li>
-		      					</ul>
-			      			</div>
-			      		</article>
-							<div class="section-body text-center">
-					        <a href="#" class="btn">
-				            	<span class="text">View more</span>
-				            	<span class="flip-front">View more</span>
-				            	<span class="flip-back">View more</span>
-				            </a>
-			            </div>
-					   </div>
-				   </div>
-				</section> -->
 
 				<!-- Contact -->
 
@@ -1161,65 +924,7 @@
 							</li>
 						</ul>
 	   				</aside>
-	   				<!-- <aside class="bottom-widget-gallery col-footer col-base col-md-6 col-lg-4">
-							<h2 class="bottom-widget-title">Favorites Flickr</h2>
-							<ul class="bottom-gallery-list">
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/1.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/2.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/3.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/4.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/5.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-								<li>
-									<div class="link-overlay">
-				      				<a href="#">
-				      					<img alt="" src="img/widget-gallery/6.jpg">
-				      					<i class="fa fa-unlink"></i>
-				      				</a>
-				      			</div>
-								</li>
-							</ul>
-							<div class="widget-gallery-control">
-								<a href="#" class="more text-white">
-									<i class="fa fa-chevron-circle-right"></i>
-									<span>View more</span>
-								</a>
-							</div>
-	   				</aside> -->
+	   				
 	   				<aside class="bottom-widget-text col-footer col-base col-md-12 col-lg-4">
 							<h2 class="bottom-widget-title">SOBRE NÓS</h2>
 							<img alt="" class="img-responsive" src="img/min-ajws.png" style="width:20%;">
@@ -1227,9 +932,9 @@
 								<p>Há mais de 30 anos no mercado promocional, a A. Jung Soluções Corporativas evoluiu de anúncios impressos nos anuários FREESHOP e BÍNDICE para soluções digitais que atendem grandes importadores e empresas em todo o Brasil."</p>
 							</div>
 							<div class="social social-round">
-					   		<a href="#" class="fa fa-facebook"></a>
-					   		<a href="#" class="fa fa-instagram"></a>
-					   		<a href="#" class="fa fa-linkedin"></a>
+					   		<a href="https://www.facebook.com/ajungscorp?ref=ts&fref=ts" class="fa fa-facebook"></a>
+					   		<a href="https://www.instagram.com/ajung.agencia/" class="fa fa-instagram"></a>
+					   		<!-- <a href="#" class="fa fa-linkedin"></a> -->
 					   		<!-- <a href="#" class="fa fa-google-plus"></a>
 					   		<a href="#" class="fa fa-pinterest-p"></a>
 					   		<a href="#" class="fa fa-flickr"></a>
@@ -1242,18 +947,30 @@
 	   	<div class="footer-bottom">
 	   		<div class="container">
 		   		<div class="row-base row">
-		   			<div class="copy col-base col-md-6">
-		   				© 2015. All rights reserved. Powered by WordPress: SuperShot by <a href="">PaulsonThemes</a>
+		   			<div class="copy col-base col-md-4">
+		   				© 2025. Desenvolvido por: <a href="https://ajung.com.br">A.Jung</a>
 		   			</div>
-		   			<div class="col-base col-md-6">
+		   			<div class="col-base col-md-8">
 		   				<nav class="navbar-bottom">
 		   					<ul>    
-		   						<li><a href="#">About</a></li>                                                        
-		   						<li><a href="#">Shop</a></li>
-		   						<li><a href="#">Team</a></li>
-		   						<li><a href="#">Pricing</a></li>
-		   						<li><a href="#">Partners</a></li>
-		   						<li><a href="#">Video</a></li>
+		   						<li>
+									<a href="#top" class="js-target-scroll">Home</a>
+								</li>
+								<li>
+									<a href="#services" class="js-target-scroll">Destaques</a>
+								</li>
+								<li>
+									<a href="#showcase" class="js-target-scroll">Portfólio</a>
+								</li>  
+								<li>
+									<a href="#depoimentos" class="js-target-scroll">Depoimentos</a>
+								</li>
+								<li>
+									<a href="#specialization" class="js-target-scroll">Sistema</a>
+								</li>
+								<li>
+									<a href="#contact-section" class="js-target-scroll">Contact</a>
+								</li>
 		   					</ul>
 		   				</nav>
 		   			</div>
