@@ -642,7 +642,6 @@ label.error{
 .btn-red .flip-front{
   background-color: #fa4951;
 }
-
 .btn-yellow{
   background-color: transparent;
 }
@@ -2623,7 +2622,8 @@ img.mfp-img{
 
 .features{
   color: #fff;
-  background: url(../img/bg/features.jpg) 50% 0 no-repeat fixed;
+  /* background: url(../img/bg/features.jpg) 50% 0 no-repeat fixed; */
+  background-color: #2c2c2c;
   background-size: cover;
 }
 

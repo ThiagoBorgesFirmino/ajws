@@ -503,20 +503,21 @@
 			              </div>
 			              <div class="review">
 			                  <div class="col-review col-sm-8 col-sm-offset-2">
-			                  	<p class="review-text">This is the best of the PSD which has been well organized and focused on the smallest details and carefully placed, <strong>from every point of view</strong> has a lot of potential that can be explored</p>
+			                  	<p class="review-text">Trabalhar com a Ajung tem sido ótimo! Eles entregaram o que a gente queria pro site, com agilidade, criatividade e o cuidado que faz toda a diferença. Eles realmente levam a sério o que fazem — <strong>e isso aparece em cada detalhe. Super recomendo!</strong></p>
 			                  </div>	
 			                	<div class="reviewer">
-				                	<h3 class="reviewer-name">Herr Österreicher</h3>
-				                	<p class="reviewer-spec">Web developer</p>
+				                	<h3 class="reviewer-name">Sheila Torres</h3>
+				                	<p class="reviewer-spec">CEO da Line Brindes</p>
 			                	</div>
 			              </div>
 			              <div class="review">
 			                  <div class="col-review col-sm-8 col-sm-offset-2">
-			                  	<p class="review-text">This is the best of the PSD which has been well organized and focused on the smallest details and carefully placed, <strong>from every point of view</strong> has a lot of potential that can be explored This is the best of the PSD which has been well organized and focused on the smallest</p>
+			                  	<p class="review-text">Trabalhar com <strong>o sistema da A Jung tem sido um divisor de águas para a Imprimil.
+								</strong> A agilidade nas devolutivas de orçamento, aliada à precisão de custo e controle de estoque, trouxe um ganho significativo para toda a equipe comercial. Hoje conseguimos responder com muito mais rapidez e assertividade, o que se reflete diretamente no aumento das conversões e no crescimento das nossas vendas.</p>
 			                  </div>	
 			                	<div class="reviewer">
-				                	<h3 class="reviewer-name">Herr Österreicher</h3>
-				                	<p class="reviewer-spec">Web developer</p>
+				                	<h3 class="reviewer-name">Alessandro Almeida</h3>
+				                	<p class="reviewer-spec">CEO da Imprimil</p>
 			                	</div>
 			              </div>
 			             </div>
@@ -531,9 +532,9 @@
 				            		<div class="dir-text hidden-xs">Next</div>
 				            	</div>
 				            	<div class="thumbnail-pagination">
-				            		<a href=""><img alt="" src="img/reviews/1.jpg"></a>
-				            		<a href=""><img alt="" src="img/reviews/2.jpg"></a>
-				            		<a href=""><img alt="" src="img/reviews/3.jpg"></a>
+				            		<a href=""><img alt="" src="img/reviews/beecoolbrindes.jpg"></a>
+				            		<a href=""><img alt="" src="img/reviews/sheila-linebrindes.jpg"></a>
+				            		<a href=""><img alt="" src="img/reviews/imprimil.jpg"></a>
 				            	</div>
 				            </div>
 			            </div>
@@ -551,10 +552,10 @@
 				        </header>
 				        <div class="col-base col-md-3">
 				        	<a href="#" class="btn btn-red wow swing">
-			            	<span class="text">Solicitar agora</span>
-			            	<span class="flip-front">Solicitar agora</span>
-			            	<span class="flip-back">Solicitar agora</span>
-			             </a>
+								<span class="text">Solicitar agora</span>
+								<span class="flip-front">Solicitar agora</span>
+								<span class="flip-back">Solicitar agora</span>
+							</a>
 				        </div>
 				      </div>
 				   </div>
@@ -997,6 +998,8 @@
 	<script src="js/gmap.js"></script> 
 	<script src="js/jquery-3.7.1.min.js"></script>
 	<script src="js/contact_me.js"></script>
+	<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+	<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
 
 	<script type="text/javascript">
