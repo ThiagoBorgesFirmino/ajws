@@ -771,7 +771,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="#" class="btn btn-b-dark">
+					      					<a href="https://wa.me/+5511999732822?text=Solicitar%20AJWS04" class="btn btn-b-dark">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
@@ -800,7 +800,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="#" class="btn btn-yellow">
+					      					<a href="https://wa.me/+5511999732822?text=Solicitar%20AJWS01,02,03%20e%2005" class="btn btn-yellow">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
@@ -828,7 +828,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="#" class="btn btn-b-dark">
+					      					<a href="https://wa.me/+5511999732822?text=Solicitar%20projeto%20exclusivo" class="btn btn-b-dark">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
