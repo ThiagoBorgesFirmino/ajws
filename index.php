@@ -9,6 +9,7 @@
 <meta  charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AJWS - Seu Site de Brindes</title> 
+<meta name="description" content="Desenvolvemos sites para empresas de brindes com design moderno, páginas de produtos individuais e sistema de orçamentos via WhatsApp.">
 
 <!-- Favicons -->
 
@@ -124,7 +125,7 @@
 	               will make your projects a reality
 	            </div>
 	            <div class="lead-delimiter delimiter white"><div></div></div>
-	            <a href="#" class="btn-lead btn">
+	            <a href="#contact-section" class="btn-lead btn js-target-scroll">
 	            	<span class="text">Discovery</span>
 	            	<span class="flip-front">Discovery</span>
 	            	<span class="flip-back">Start now</span>
@@ -149,7 +150,7 @@
 		               will make your projects a reality
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
-		             <a href="#" class="btn-lead btn">
+		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
 		            	<span class="text">Discovery</span>
 		            	<span class="flip-front">Discovery</span>
 		            	<span class="flip-back">Start now</span>
@@ -174,7 +175,7 @@
 		               will make your projects a reality
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
-		             <a href="#" class="btn-lead btn">
+		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
 		            	<span class="text">Discovery</span>
 		            	<span class="flip-front">Discovery</span>
 		            	<span class="flip-back">Start now</span>
@@ -249,7 +250,7 @@
 				    	<div class="grid-sizer"></div>
 			         <div class="AJWSI col-showcase w2 js-iso-item">
 		              <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSI/AJWSI_1_KELLY.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSI Kelly Pinheiro" src="img/portfolio/AJWSI/AJWSI_1_KELLY.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -261,23 +262,25 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSII col-showcase js-iso-item">
 		              <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSII/AJWSII_2_PERSONARTT.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSII Chama Brindes" src="img/portfolio/AJWSII/AJWSII_6_CHAMA.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
-		                    <h3 class="showcase-title">Personartt Brindes e Personalizados</h3>
+		                    <h3 class="showcase-title">Chama Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://personartt.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://chamabrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSIII col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSIII/AJWSIII_4_CAO.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIII Cao Brindes" src="img/portfolio/AJWSIII/AJWSIII_4_CAO.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -289,9 +292,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
-			         <div class="AJWIV col-showcase js-iso-item">
+
+			         <div class="AJWSIV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSIV/AJWSIV_2_AULIK.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIV Aulik Brindes" src="img/portfolio/AJWSIV/AJWSIV_2_AULIK.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -303,9 +307,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSV/AJWSV_2_MF.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSV MF Brindes" src="img/portfolio/AJWSV/AJWSV_2_MF.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -317,23 +322,25 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSII col-showcase w2 js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSII/AJWSII_1_STAMP.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSII Zoot" src="img/portfolio/AJWSII/AJWSII_5_ZOOT.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
-		                    <h3 class="showcase-title">Stamp Arte 7</h3>
+		                    <h3 class="showcase-title">Zoot</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://stamparte7.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://zoot.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSI col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSI/AJWSI_4_MAXXI.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSI Maxxi Brindes" src="img/portfolio/AJWSI/AJWSI_4_MAXXI.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -345,9 +352,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 			         <div class="AJWSV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSV/AJWSV_4_LINE.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSV Line Brindes" src="img/portfolio/AJWSV/AJWSV_4_LINE.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -359,23 +367,25 @@
 		                </figcaption>
 		              </figure>
 			         </div>
-					  <div class="AJWSI col-showcase w2 js-iso-item">
+
+					  <div class="AJWSIII col-showcase w2 js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSI/AJWSI_5_BEECOOL.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIII RM2 Brindes Corporativos" src="img/portfolio/AJWSIII/AJWSIII_5_RM2.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
-		                    <h3 class="showcase-title">Beecool Brindes</h3>
+		                    <h3 class="showcase-title">RM2 Brindes Corporativos</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://beecoolbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://brindescorporativos.rm2.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
 		              </figure>
 			         </div>
+
 					 <div class="AJWSII col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSII/AJWSII_4_OPCAO.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSII Opcao Brindes" src="img/portfolio/AJWSII/AJWSII_4_OPCAO.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -387,9 +397,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 					 <div class="AJWSIII col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSIII/AJWSIII_2_BOX.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIII Box 19" src="img/portfolio/AJWSIII/AJWSIII_2_BOX.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -401,9 +412,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 					 <div class="AJWSIV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSIV/AJWSIV_4_CRICKET.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIV Cricket Brindes" src="img/portfolio/AJWSIV/AJWSIV_4_CRICKET.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -415,9 +427,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 					 <div class="AJWSV col-showcase w2 js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSV/AJWSV_5_ATOS.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSV Atos Brindes" src="img/portfolio/AJWSV/AJWSV_5_ATOS.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -429,9 +442,10 @@
 		                </figcaption>
 		              </figure>
 			         </div>
+
 					 <div class="AJWSV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSV/AJWSV_3_JOY.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSV Joy Brindes" src="img/portfolio/AJWSV/AJWSV_3_JOY.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
 		                    <div class="showcase-category">Projeto Website</div>
@@ -444,16 +458,15 @@
 		              </figure>
 			         </div>
 					 
-					 <div class="AJWSIV col-showcase js-iso-item">
+					 <div class="AJWSIII col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSI/AJWSI_4_MAXXI.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIII Splash Brindes" src="img/portfolio/AJWSIII/AJWSIII_1_SPLASH.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
-		                    <div class="showcase-category">Graphic Designer, Photoshop</div>
-		                    <h3 class="showcase-title">aaa</h3>
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">Splash Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="#" class="icon-round icon-round-medium"><i class="fa fa-heart-o"></i></a>
-		                    	<a href="#" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://splashbrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -462,14 +475,71 @@
 					 
 					 <div class="AJWSIV col-showcase js-iso-item">
 			            <figure>
-		                <div class="image-holder"><img alt="" src="img/portfolio/AJWSI/AJWSI_4_MAXXI.jpg"></div>
+		                <div class="image-holder"><img alt="AJWSIV Iris Brindes" src="img/portfolio/AJWSIV/AJWSIV_1_IRIS.jpg"></div>
 		                <figcaption>
 		                  <div class="showcase-lead">
-		                    <div class="showcase-category">Graphic Designer, Photoshop</div>
-		                    <h3 class="showcase-title">bbb</h3>
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">Iris Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="#" class="icon-round icon-round-medium"><i class="fa fa-heart-o"></i></a>
-		                    	<a href="#" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://irisbrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    </div>
+		                  </div>
+		                </figcaption>
+		              </figure>
+			         </div>
+					
+					 <div class="AJWSIV col-showcase w2 js-iso-item">
+		              <figure>
+		                <div class="image-holder"><img alt="AJWSIV Campinas Promocional" src="img/portfolio/AJWSIV/AJWSIV_5_CAMPINAS.jpg"></div>
+		                <figcaption>
+		                  <div class="showcase-lead">
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">Campinas Promocional</h3>
+		                    <div class="showcase-cntrls">
+		                    	<a href="https://campinaspromocional.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    </div>
+		                  </div>
+		                </figcaption>
+		              </figure>
+			         </div>
+
+			         <div class="AJWSII col-showcase js-iso-item">
+		              <figure>
+		                <div class="image-holder"><img alt="AJWSII Personartt" src="img/portfolio/AJWSII/AJWSII_2_PERSONARTT.jpg"></div>
+		                <figcaption>
+		                  <div class="showcase-lead">
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">Personartt Brindes e Personalizados</h3>
+		                    <div class="showcase-cntrls">
+		                    	<a href="https://personartt.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    </div>
+		                  </div>
+		                </figcaption>
+		              </figure>
+			         </div>
+			         <div class="AJWSI col-showcase js-iso-item">
+		              <figure>
+		                <div class="image-holder"><img alt="AJWSI MRP PROMO" src="img/portfolio/AJWSI/AJWSI_2_MRP.jpg"></div>
+		                <figcaption>
+		                  <div class="showcase-lead">
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">MRP Promo</h3>
+		                    <div class="showcase-cntrls">
+		                    	<a href="https://mrppromo.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    </div>
+		                  </div>
+		                </figcaption>
+		              </figure>
+			         </div>
+			         <div class="AJWSI col-showcase js-iso-item">
+		              <figure>
+		                <div class="image-holder"><img alt="AJWSI Beecool Brindes" src="img/portfolio/AJWSI/AJWSI_5_BEECOOL.jpg"></div>
+		                <figcaption>
+		                  <div class="showcase-lead">
+		                    <div class="showcase-category">Projeto Website</div>
+		                    <h3 class="showcase-title">Beecool Brindes</h3>
+		                    <div class="showcase-cntrls">
+		                    	<a href="https://beecoolbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -532,9 +602,9 @@
 				            		<div class="dir-text hidden-xs">Next</div>
 				            	</div>
 				            	<div class="thumbnail-pagination">
-				            		<a href=""><img alt="" src="img/reviews/beecoolbrindes.jpg"></a>
-				            		<a href=""><img alt="" src="img/reviews/sheila-linebrindes.jpg"></a>
-				            		<a href=""><img alt="" src="img/reviews/imprimil.jpg"></a>
+				            		<a href=""><img alt="Beecool Brindes" src="img/reviews/beecoolbrindes.jpg"></a>
+				            		<a href=""><img alt="Sheila Linebrindes" src="img/reviews/sheila-linebrindes.jpg"></a>
+				            		<a href=""><img alt="imprimil" src="img/reviews/imprimil.jpg"></a>
 				            	</div>
 				            </div>
 			            </div>
@@ -551,7 +621,7 @@
 				        		<h2 class="banner-title">Gostaria de testar um site modelo ?</h2>
 				        </header>
 				        <div class="col-base col-md-3">
-				        	<a href="#" class="btn btn-red wow swing">
+				        	<a href="https://wa.me/+5511999732822?text=Solicitar%20agora" target="_blank" class="btn btn-red wow swing">
 								<span class="text">Solicitar agora</span>
 								<span class="flip-front">Solicitar agora</span>
 								<span class="flip-back">Solicitar agora</span>
@@ -605,7 +675,7 @@
 			        				<p>Ofereça atendimento direto pelo WhatsApp integrado ao site. Responda orçamentos rapidamente e aumente suas conversões no canal preferido dos clientes.</p>
 			        			</div>
 			        		</div>
-			        		<a href="#" class="btn btn-b-white">
+			        		<a href="https://wa.me/+5511999732822?text=Agende%20uma%20demonstração" target="_blank" class="btn btn-b-white">
 			            	<span class="text">Agende uma demonstração</span>
 			            	<span class="flip-front">Agende uma demonstração</span>
 			            	<span class="flip-back">Agende uma demonstração</span>
@@ -897,7 +967,7 @@
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.spotbrindes.com.br/" target="_blank">
+									<a href="https://www.spotgifts.com.br/pt/" target="_blank">
 										<img alt="SPOT Brindes" src="img/clients/spot.png">
 									</a>
 								</div>
@@ -933,13 +1003,9 @@
 								<p>Há mais de 30 anos no mercado promocional, a A. Jung Soluções Corporativas evoluiu de anúncios impressos nos anuários FREESHOP e BÍNDICE para soluções digitais que atendem grandes importadores e empresas em todo o Brasil."</p>
 							</div>
 							<div class="social social-round">
-					   		<a href="https://www.facebook.com/ajungscorp?ref=ts&fref=ts" class="fa fa-facebook"></a>
-					   		<a href="https://www.instagram.com/ajung.agencia/" class="fa fa-instagram"></a>
-					   		<!-- <a href="#" class="fa fa-linkedin"></a> -->
-					   		<!-- <a href="#" class="fa fa-google-plus"></a>
-					   		<a href="#" class="fa fa-pinterest-p"></a>
-					   		<a href="#" class="fa fa-flickr"></a>
-					   		<a href="#" class="fa fa-dribbble"></a> -->
+					   		<a href="https://www.facebook.com/ajungscorp" target="_blank" class="fa fa-facebook"></a>
+					   		<a href="https://www.instagram.com/ajung.agencia/" target="_blank" class="fa fa-instagram"></a>
+					   		<a href="https://www.youtube.com/@a.jungsolucoescorporativas9777" target="_blank" class="fa fa-youtube"></a>
 				   	   </div>
 	   				</aside>
 	   			</div>
