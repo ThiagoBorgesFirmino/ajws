@@ -118,17 +118,17 @@
 		      	   	<div class="triangle triangle4"></div>
 		      	   </div>
 		      	   <h1>
-			      	   The best creative service
+			      	   PREÇO E ESTOQUE ATUALIZADOS
 		      	   </h1>
 	      	   </div>
 		         <div class="lead">
-	               will make your projects a reality
+	               Agilidade para o seu dia a dia.
 	            </div>
 	            <div class="lead-delimiter delimiter white"><div></div></div>
 	            <a href="#contact-section" class="btn-lead btn js-target-scroll">
-	            	<span class="text">Discovery</span>
-	            	<span class="flip-front">Discovery</span>
-	            	<span class="flip-back">Start now</span>
+	            	<span class="text">Faça o upgrade agora</span>
+	            	<span class="flip-front">Faça o upgrade agora</span>
+	            	<span class="flip-back">Faça o upgrade agora</span>
 	            </a>
 	           </div>
           		<div class="masthead-entry-img rel-1"><img alt="" class="img-responsive center-block" src="img/slides/FRAMES1.jpg"></div>
@@ -143,17 +143,17 @@
 			      	   	<div class="triangle triangle4"></div>
 			      	   </div>
 			      	   <h1>
-				      	   Modern design
+				      	   LAYOUTS PERSONALIZADOS E MODERNOS
 			      	   </h1>
 		      	   </div>
 			         <div class="lead">
-		               will make your projects a reality
+		               Personalizamos de acordo com o logo e as cores da sua empresa.
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
 		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
-		            	<span class="text">Discovery</span>
-		            	<span class="flip-front">Discovery</span>
-		            	<span class="flip-back">Start now</span>
+		            	<span class="text">Solicite seu layout</span>
+		            	<span class="flip-front">Solicite seu layout</span>
+		            	<span class="flip-back">Solicite seu layout</span>
 		             </a>
 		         </div>
 	         	<div class="masthead-entry-img rel-1"><img alt="" class="img-responsive center-block" src="img/slides/FRAMES2.jpg"></div>
@@ -168,17 +168,17 @@
 			      	   	<div class="triangle triangle4"></div>
 			      	   </div>
 			      	   <h1>
-				      	   Easy to customize
+				      	   SISTEMA DE RESPOSTA DE ORÇAMENTO
 			      	   </h1>
 		      	   </div>
 			         <div class="lead">
-		               will make your projects a reality
+		               Respostas automáticas e inteligentes direto no WhatsApp ou e-mail para agilizar suas vendas.
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
 		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
-		            	<span class="text">Discovery</span>
-		            	<span class="flip-front">Discovery</span>
-		            	<span class="flip-back">Start now</span>
+		            	<span class="text">Otimize seu atendimento</span>
+		            	<span class="flip-front">Otimize seu atendimento</span>
+		            	<span class="flip-back">Otimize seu atendimento</span>
 		             </a>
 		         </div>
 		         <div class="masthead-entry-img rel-1"><img alt="" class="img-responsive center-block" src="img/slides/FRAMES3.jpg"></div>
@@ -205,7 +205,7 @@
 				          <div class="border">
 				          	<i class="fa fa-shield"></i>
 				            <h3>Integração com Importadores</h3>
-				            <p>IIntegração automática de preços e estoque via API, com atualização semanal dos produtos das principais importadoras.</p>
+				            <p>Integração automática de preços e estoque via API, com atualização semanal dos produtos das principais importadoras.</p>
 				          </div>
 				        </div>
 				        <div class="service-column col-base col-md-6 col-lg-3">
@@ -234,7 +234,7 @@
 				        <header class="text-center col-md-6 col-md-offset-3">
 				        	<h2>ESCOLHA SEU LAYOUT</h2>
 				        	<div class="delimiter"><div></div></div>
-				        	<p class="section-entry">Personalize seu site escolhendo o layout que mais combina com sua empresa. No painel administrativo, você ainda encontra uma biblioteca de banners para destacar promoções e novidades."</p>
+				        	<p class="section-entry">Personalize seu site escolhendo o layout que mais combina com sua empresa. No painel administrativo, você ainda encontra uma biblioteca de banners para destacar promoções e novidades.</p>
 				        </header>
 				      </div>
 				   </div>
@@ -546,6 +546,18 @@
 		              </figure>
 			         </div>
 			      </div>
+				  <div class="container">
+					<div class="row">
+						<header class="text-center col-md-6 col-md-offset-3 section-body">
+				        	<a href="https://ajung.com.br/#portifolio" target="_blank" class="btn btn-red wow swing">
+								<span class="text">Nosso Portifólio</span>
+								<span class="flip-front">Nosso Portifólio</span>
+								<span class="flip-back">Nosso Portifólio</span>
+							</a>
+				        	<p class="section-entry">conheça mais sobre A.Jung Soluções Corporativas<br/>Conte Conosco para seus próximos projetos!</p>
+				        </header>
+					</div>
+				  </div>
 				</section>
 
 				<!-- Reviews -->
@@ -562,7 +574,7 @@
 				      <div class="section-body rel-1">
 				      	<i class="icon-review fa fa-quote-left"></i>
 					      <div class="review-carousel carousel">
-			              <div class="review">
+			              <!-- <div class="review">
 			                  <div class="col-review col-sm-8 col-sm-offset-2">
 			                  	<p class="review-text">Trabalhamos muito com brindes no ano todo e a empresa nunca poupou esforços para nos atender com o brinde solicitado. O atendimento, disposição em nos atender, garantia de qualidade, pontualidade nas entregas e melhor custo/beneficio dos produtos faz da <strong>A. Jung nossa parceira</strong>.</p>
 			                  </div>	
@@ -570,7 +582,7 @@
 				                	<h3 class="reviewer-name">Fernando</h3>
 				                	<p class="reviewer-spec">Dir. BEECOOL BRINDES</p>
 			                	</div>
-			              </div>
+			              </div> -->
 			              <div class="review">
 			                  <div class="col-review col-sm-8 col-sm-offset-2">
 			                  	<p class="review-text">Trabalhar com a Ajung tem sido ótimo! Eles entregaram o que a gente queria pro site, com agilidade, criatividade e o cuidado que faz toda a diferença. Eles realmente levam a sério o que fazem — <strong>e isso aparece em cada detalhe. Super recomendo!</strong></p>
@@ -602,7 +614,7 @@
 				            		<div class="dir-text hidden-xs">Next</div>
 				            	</div>
 				            	<div class="thumbnail-pagination">
-				            		<a href=""><img alt="Beecool Brindes" src="img/reviews/beecoolbrindes.jpg"></a>
+				            		<!-- <a href=""><img alt="Beecool Brindes" src="img/reviews/beecoolbrindes.jpg"></a> -->
 				            		<a href=""><img alt="Sheila Linebrindes" src="img/reviews/sheila-linebrindes.jpg"></a>
 				            		<a href=""><img alt="imprimil" src="img/reviews/imprimil.jpg"></a>
 				            	</div>
@@ -721,7 +733,7 @@
 				      			</div>
 				      			<div class="spec-header">
 				      				<h3 class="spec-title">Marketing</h3>
-				      				<p class="spec-type">Google Ads<b/>SEO<br/>E-mail Marketing<br/>Redes Sociais</p>
+				      				<p class="spec-type">Google Ads <b/>SEO<br/>E-mail Marketing<br/>Redes Sociais</p>
 				      			</div>
 				      		</div>
 				      		<div class="col-spec col-base col-sm-6 col-md-3">
@@ -729,7 +741,7 @@
 				      				<div class="chart-icon"><i class="fa fa-code"></i></div>
 				      			</div>
 				      			<div class="spec-header">
-				      				<h3 class="spec-title">Javascript</h3>
+				      				<h3 class="spec-title">Linguagem</h3>
 				      				<p class="spec-type">Javascript Ajax<br/>PHP 8.3<br/>Banco de Dados</p>
 				      			</div>
 				      		</div>
@@ -906,11 +918,11 @@
 					      			</div>
 				      			</div>
 				      			<div class="col-base col-sm-6 col-md-4 col-lg-2">
-				      				<div class="captcha form-control" style="background-image:url(img/captcha.jpg);"></div>
+				      				<!-- <div class="captcha form-control" style="background-image:url(img/captcha.jpg);"></div> -->
 				      			</div>
 				      			<div class="col-base col-sm-6 col-md-4 col-lg-4">
 					      			<div class="form-control-layout">
-					      				<input type="text" class="form-control no-icon" name="code" placeholder="Enter the code">
+					      				<!-- <input type="text" class="form-control no-icon" name="code" placeholder="Enter the code"> -->
 					      			</div>
 				      			</div>
 				      			<div class="col-base col-sm-12 col-md-4 col-lg-6">
@@ -1001,6 +1013,11 @@
 							<img alt="" class="img-responsive" src="img/min-ajws.png" style="width:20%;">
 							<div class="text-content">
 								<p>Há mais de 30 anos no mercado promocional, a A. Jung Soluções Corporativas evoluiu de anúncios impressos nos anuários FREESHOP e BÍNDICE para soluções digitais que atendem grandes importadores e empresas em todo o Brasil."</p>
+
+								<br/>
+								<div class="text-right">
+									<a href="https://ajung.com.br" target="_blank" title="Leia Mais"><i class="fa fa-arrow-circle-right"></i> Leia Mais</a>
+								</div>
 							</div>
 							<div class="social social-round">
 					   		<a href="https://www.facebook.com/ajungscorp" target="_blank" class="fa fa-facebook"></a>
