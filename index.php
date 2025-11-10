@@ -4,7 +4,7 @@
 ?>
 
 <!DOCTYPE HTML>
-<html>
+<html lang="pt-br">
 <head>
 <meta  charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,6 +39,16 @@
 <!-- Styles -->
 
 <link href="css/style.css" rel="stylesheet"  media="screen">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DMTERE37F1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DMTERE37F1');
+</script>
 </head>
 <body>
 
@@ -78,22 +88,22 @@
 		        <div class="collapse navbar-collapse" id="navbar-collapse">
 		            <ul class="nav navbar-nav navbar-right">                                                   
 			            <li class="active">
-			            	<a href="#top" class="js-target-scroll">Home</a>
+			            	<a href="#top" class="js-target-scroll" title="Home">Home</a>
 			            </li>
 			            <li>
-			            	<a href="#services" class="js-target-scroll">Destaques</a>
+			            	<a href="#services" class="js-target-scroll" title="Destaques">Destaques</a>
 			            </li>
 			            <li>
-			            	<a href="#showcase" class="js-target-scroll">Portfólio</a>
+			            	<a href="#showcase" class="js-target-scroll" title="Portfólio">Portfólio</a>
 			            </li>  
 			            <li>
-			            	<a href="#depoimentos" class="js-target-scroll">Depoimentos</a>
+			            	<a href="#depoimentos" class="js-target-scroll" title="Depoimentos">Depoimentos</a>
 			            </li>
 			            <li>
-			            	<a href="#specialization" class="js-target-scroll">Sistema</a>
+			            	<a href="#specialization" class="js-target-scroll" title="Sistema">Sistema</a>
 			            </li>
 			            <li>
-			            	<a href="#contact-section" class="js-target-scroll">Contato</a>
+			            	<a href="#contact-section" class="js-target-scroll" title="Contato">Contato</a>
 			            </li>
 			         </ul>
 		        </div>
@@ -125,7 +135,7 @@
 	               Agilidade para o seu dia a dia.
 	            </div>
 	            <div class="lead-delimiter delimiter white"><div></div></div>
-	            <a href="#contact-section" class="btn-lead btn js-target-scroll">
+	            <a href="#contact-section" class="btn-lead btn js-target-scroll" title="Faça o upgrade agora">
 	            	<span class="text">Faça o upgrade agora</span>
 	            	<span class="flip-front">Faça o upgrade agora</span>
 	            	<span class="flip-back">Faça o upgrade agora</span>
@@ -150,7 +160,7 @@
 		               Personalizamos de acordo com o logo e as cores da sua empresa.
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
-		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
+		             <a href="#contact-section" class="btn-lead btn js-target-scroll" title="Solicite seu layout">
 		            	<span class="text">Solicite seu layout</span>
 		            	<span class="flip-front">Solicite seu layout</span>
 		            	<span class="flip-back">Solicite seu layout</span>
@@ -175,7 +185,7 @@
 		               Respostas automáticas e inteligentes direto no WhatsApp ou e-mail para agilizar suas vendas.
 		             </div>
 		             <div class="lead-delimiter delimiter white"><div></div></div>
-		             <a href="#contact-section" class="btn-lead btn js-target-scroll">
+		             <a href="#contact-section" class="btn-lead btn js-target-scroll" title="Otimize seu atendimento">
 		            	<span class="text">Otimize seu atendimento</span>
 		            	<span class="flip-front">Otimize seu atendimento</span>
 		            	<span class="flip-back">Otimize seu atendimento</span>
@@ -256,7 +266,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Kelly Pinheiro Personalizados</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://kpersonalizados.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://kpersonalizados.com.br/" target="_blank" class="icon-round icon-round-medium" title="Kelly Pinheiro Personalizados"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -271,7 +281,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Chama Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://chamabrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://chamabrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Chama Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -286,7 +296,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">CAO Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://caobrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://caobrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="CAO Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -301,7 +311,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Aulik Brindes Personalizados</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://aulikbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://aulikbrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Aulik Brindes Personalizados"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -316,7 +326,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">MF Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://mfbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://mfbrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="MF Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -331,7 +341,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Zoot</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://zoot.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://zoot.com.br/" target="_blank" class="icon-round icon-round-medium" title="Zoot"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -346,7 +356,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Maxxi Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://maxxibrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://maxxibrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Maxxi Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -361,7 +371,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Line Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://linebrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://linebrindes.com.br" target="_blank" class="icon-round icon-round-medium" title="Line Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -376,7 +386,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">RM2 Brindes Corporativos</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://brindescorporativos.rm2.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://brindescorporativos.rm2.com.br/" target="_blank" class="icon-round icon-round-medium" title="RM2 Brindes Corporativos"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -391,7 +401,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Opção Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://opcaopromocional.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://opcaopromocional.com.br/" target="_blank" class="icon-round icon-round-medium" title="Opção Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -406,7 +416,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">BOX 19</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://box19.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://box19.com.br/" target="_blank" class="icon-round icon-round-medium" title="BOX 19"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -421,7 +431,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Cricket Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://cricketbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://cricketbrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Cricket Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -436,7 +446,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Atos Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://atosbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://atosbrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Atos Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -451,7 +461,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">JOY Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://joybrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://joybrindes.com.br" target="_blank" class="icon-round icon-round-medium" title="JOY Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -466,7 +476,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Splash Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://splashbrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://splashbrindes.com.br" target="_blank" class="icon-round icon-round-medium" title="Splash Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -481,7 +491,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Iris Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://irisbrindes.com.br" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://irisbrindes.com.br" target="_blank" class="icon-round icon-round-medium" title="Iris Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -496,7 +506,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Campinas Promocional</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://campinaspromocional.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://campinaspromocional.com.br/" target="_blank" class="icon-round icon-round-medium" title="Campinas Promocional"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -511,7 +521,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Personartt Brindes e Personalizados</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://personartt.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://personartt.com.br/" target="_blank" class="icon-round icon-round-medium" title="Personartt Brindes e Personalizados"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -525,7 +535,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">MRP Promo</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://mrppromo.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://mrppromo.com.br/" target="_blank" class="icon-round icon-round-medium" title="MRP Promo"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -539,7 +549,7 @@
 		                    <div class="showcase-category">Projeto Website</div>
 		                    <h3 class="showcase-title">Beecool Brindes</h3>
 		                    <div class="showcase-cntrls">
-		                    	<a href="https://beecoolbrindes.com.br/" target="_blank" class="icon-round icon-round-medium"><i class="fa fa fa-link"></i></a>
+		                    	<a href="https://beecoolbrindes.com.br/" target="_blank" class="icon-round icon-round-medium" title="Beecool Brindes"><i class="fa fa fa-link"></i></a>
 		                    </div>
 		                  </div>
 		                </figcaption>
@@ -549,7 +559,7 @@
 				  <div class="container">
 					<div class="row">
 						<header class="text-center col-md-6 col-md-offset-3 section-body">
-				        	<a href="https://ajung.com.br/#portifolio" target="_blank" class="btn btn-red wow swing">
+				        	<a href="https://ajung.com.br/#portifolio" target="_blank" class="btn btn-red wow swing" title="A.Jung Portifólio">
 								<span class="text">Nosso Portifólio</span>
 								<span class="flip-front">Nosso Portifólio</span>
 								<span class="flip-back">Nosso Portifólio</span>
@@ -633,7 +643,7 @@
 				        		<h2 class="banner-title">Gostaria de testar um site modelo ?</h2>
 				        </header>
 				        <div class="col-base col-md-3">
-				        	<a href="https://wa.me/+5511999732822?text=Solicitar%20agora" target="_blank" class="btn btn-red wow swing">
+				        	<a href="https://wa.me/+5511999732822?text=Solicitar%20agora" title="Solicitar agora" target="_blank" class="btn btn-red wow swing">
 								<span class="text">Solicitar agora</span>
 								<span class="flip-front">Solicitar agora</span>
 								<span class="flip-back">Solicitar agora</span>
@@ -648,7 +658,7 @@
 				<section id="features" class="features masked section" data-stellar-background-ratio="0.4">
 			      <div class="rel-1">
 			        <div class="col-feature-img col-md-12 col-lg-6 wow fadeInLeft" data-wow-duration="2s">
-			        		<img alt="" class="" src="img/feature-img.png">
+			        		<img alt="Computador" class="" src="img/feature-img.png">
 			        </div>
 			        <div class="col-feature col-sm-12 col-md-12 col-lg-4">
 			        		<div class="feature">
@@ -687,7 +697,7 @@
 			        				<p>Ofereça atendimento direto pelo WhatsApp integrado ao site. Responda orçamentos rapidamente e aumente suas conversões no canal preferido dos clientes.</p>
 			        			</div>
 			        		</div>
-			        		<a href="https://wa.me/+5511999732822?text=Agende%20uma%20demonstração" target="_blank" class="btn btn-b-white">
+			        		<a href="https://wa.me/+5511999732822?text=Agende%20uma%20demonstração" title="Solicite sua demonstração" target="_blank" class="btn btn-b-white">
 			            	<span class="text">Agende uma demonstração</span>
 			            	<span class="flip-front">Agende uma demonstração</span>
 			            	<span class="flip-back">Agende uma demonstração</span>
@@ -783,7 +793,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20AJWS04" class="btn btn-b-dark">
+					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20AJWS04" title="Contratar" class="btn btn-b-dark">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
@@ -812,7 +822,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20AJWS01,02,03%20e%2005" class="btn btn-yellow">
+					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20AJWS01,02,03%20e%2005"  title="Contratar" class="btn btn-yellow">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
@@ -840,7 +850,7 @@
 				      						<li><strong>Suporte WhatsApp,</strong> fone e e-mail</li>
 				      					</ul>
 				      					<div class="price-footer">
-					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20exclusivo" class="btn btn-b-dark">
+					      					<a href="https://wa.me/+5511999732822?text=Quero%20o%20projeto%20exclusivo"  title="Contratar" class="btn btn-b-dark">
 								            	<span class="text">Contratar</span>
 								            	<span class="flip-front">Contratar</span>
 								            	<span class="flip-back">Contratar</span>
@@ -862,7 +872,7 @@
 				      <div class="row">
 				        <header class="text-center col-md-6 col-md-offset-3">
 				        	<div class="wow fadeInDown">
-				        		<a href="img/portfolio/AJWS.mp4" class="icon-video-play fa fa-play-circle-o js-play"></a>
+				        		<a href="img/portfolio/AJWS.mp4" alt="Imagem Portifolio" class="icon-video-play fa fa-play-circle-o js-play"></a>
 				        	</div>
 				        	<div class="wow fadeInUp">
 					        	<h2>Assista esse video</h2>
@@ -965,42 +975,42 @@
 						<ul class="bottom-gallery-list">
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.xbzbrindes.com.br/" target="_blank">
+									<a href="https://www.xbzbrindes.com.br/" title="XBZ BRINDES" target="_blank">
 										<img alt="XBZ Brindes" src="img/clients/xbz.png">
 									</a>
 								</div>
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.somarcas.com.br/" target="_blank">
+									<a href="https://www.somarcas.com.br/" title="Só Marcas" target="_blank">
 										<img alt="Só Marcas" src="img/clients/somarcas.png">
 									</a>
 								</div>
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.spotgifts.com.br/pt/" target="_blank">
+									<a href="https://www.spotgifts.com.br/pt/" title="Spot Gifts" target="_blank">
 										<img alt="SPOT Brindes" src="img/clients/spot.png">
 									</a>
 								</div>
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.88brindes.com.br/" target="_blank">
+									<a href="https://www.88brindes.com.br/" title="88 Brindes" target="_blank">
 										<img alt="88 Brindes" src="img/clients/88brindes.png">
 									</a>
 								</div>
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.asiaimport.com.br/" target="_blank">
+									<a href="https://www.asiaimport.com.br/" title="Asia Import" target="_blank">
 										<img alt="Asia Import" src="img/clients/asiaimport.png">
 									</a>
 								</div>
 							</li>
 							<li>
 								<div class="link-overlay">
-									<a href="https://www.revendedores.bestgift.com.br/" target="_blank">
+									<a href="https://www.revendedores.bestgift.com.br/" title="Best Gifts" target="_blank">
 										<img alt="Best Gift" src="img/clients/bestgift.png">
 									</a>
 								</div>
@@ -1020,9 +1030,9 @@
 								</div>
 							</div>
 							<div class="social social-round">
-					   		<a href="https://www.facebook.com/ajungscorp" target="_blank" class="fa fa-facebook"></a>
-					   		<a href="https://www.instagram.com/ajung.agencia/" target="_blank" class="fa fa-instagram"></a>
-					   		<a href="https://www.youtube.com/@a.jungsolucoescorporativas9777" target="_blank" class="fa fa-youtube"></a>
+					   		<a href="https://www.facebook.com/ajungscorp" title="Facebook A.Jung" target="_blank" class="fa fa-facebook"></a>
+					   		<a href="https://www.instagram.com/ajung.agencia/" title="Instagram A.Jung" target="_blank" class="fa fa-instagram"></a>
+					   		<a href="https://www.youtube.com/@a.jungsolucoescorporativas9777" title="YouTube A.Jung" target="_blank" class="fa fa-youtube"></a>
 				   	   </div>
 	   				</aside>
 	   			</div>
@@ -1032,28 +1042,28 @@
 	   		<div class="container">
 		   		<div class="row-base row">
 		   			<div class="copy col-base col-md-4">
-		   				© 2025. Desenvolvido por: <a href="https://ajung.com.br">A.Jung</a>
+		   				© 2025. Desenvolvido por: <a href="https://ajung.com.br" title="A.Jung">A.Jung</a>
 		   			</div>
 		   			<div class="col-base col-md-8">
 		   				<nav class="navbar-bottom">
 		   					<ul>    
 		   						<li>
-									<a href="#top" class="js-target-scroll">Home</a>
+									<a href="#top" class="js-target-scroll" title="Home">Home</a>
 								</li>
 								<li>
-									<a href="#services" class="js-target-scroll">Destaques</a>
+									<a href="#services" class="js-target-scroll" title="Destaques">Destaques</a>
 								</li>
 								<li>
-									<a href="#showcase" class="js-target-scroll">Portfólio</a>
+									<a href="#showcase" class="js-target-scroll" title="Portfólio">Portfólio</a>
 								</li>  
 								<li>
-									<a href="#depoimentos" class="js-target-scroll">Depoimentos</a>
+									<a href="#depoimentos" class="js-target-scroll" title="Depoimentos">Depoimentos</a>
 								</li>
 								<li>
-									<a href="#specialization" class="js-target-scroll">Sistema</a>
+									<a href="#specialization" class="js-target-scroll" title="Sistema">Sistema</a>
 								</li>
 								<li>
-									<a href="#contact-section" class="js-target-scroll">Contact</a>
+									<a href="#contact-section" class="js-target-scroll" title="Contato">Contato</a>
 								</li>
 		   					</ul>
 		   				</nav>
