@@ -833,7 +833,7 @@
 				      		</div>
 				      		<div class="col-price col-base col-sm-6 col-md-3">
 				      			<div class="price-table">
-				      				<div class="price-header">
+				      				<div class="price-header" style="padding:27px 20px">
 											<h3 class="price-title">SOLUÇÕES PERSONALIZADAS</h3>
 											<p class="price-type">Solução Exclusiva</p>
 				      				</div>
