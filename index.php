@@ -838,7 +838,7 @@
 											<p class="price-type">Layout diferenciado</p>
 				      				</div>
 				      				<div class="price">
-				      					<div class="price-amount">$599<sub>.00</sub></div>
+				      					<div class="price-amount">R$599<sub>.00</sub></div>
 				      					<div class="price-period">mensal/<br/>SETUP Layout R$3.999,00</div>
 				      				</div>
 				      				<div class="price-body">
