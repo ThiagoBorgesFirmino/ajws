@@ -833,7 +833,7 @@
 				      		</div>
 				      		<div class="col-price col-base col-sm-6 col-md-3">
 				      			<div class="price-table">
-				      				<div class="price-header" style="padding:27px 20px">
+				      				<div class="price-header">
 											<h3 class="price-title">AJWS 05</h3>
 											<p class="price-type">Layout diferenciado</p>
 				      				</div>
