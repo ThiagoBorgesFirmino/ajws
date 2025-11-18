@@ -782,7 +782,7 @@
 				      				</div>
 				      				<div class="price">
 				      					<div class="price-amount">R$399<sub>.00</sub></div>
-				      					<div class="price-period">Mensal/<br/>SETUP Layout R$2.900,00</div>
+				      					<div class="price-period">Mensal/<br/>SETUP Layout R$1.999,00</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
@@ -811,7 +811,7 @@
 				      				</div>
 				      				<div class="price">
 				      					<div class="price-amount">R$499<sub>.00</sub></div>
-				      					<div class="price-period">mensal/<br/>SETUP Layout R$3.900,00</div>
+				      					<div class="price-period">mensal/<br/>SETUP Layout R$2.999,00</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
@@ -838,8 +838,8 @@
 											<p class="price-type">Solução Exclusiva</p>
 				      				</div>
 				      				<div class="price">
-				      					<div class="price-amount">$XXX<sub>.XX</sub></div>
-				      					<div class="price-period">Projeto</div>
+				      					<div class="price-amount">$599<sub>.00</sub></div>
+				      					<div class="price-period">mensal/<br/>SETUP Layout R$3.999,00</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
