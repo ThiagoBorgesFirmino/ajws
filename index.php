@@ -806,7 +806,7 @@
 				      		<div class="leading col-price col-base col-sm-6 col-md-4 wow flipInY">
 				      			<div class="price-table">
 				      				<div class="price-header">
-											<h3 class="price-title">AJWS 01, 02, 03 e 05</h3>
+											<h3 class="price-title">AJWS 01, 02, 03</h3>
 											<p class="price-type">Nosso plano mais vendido</p>
 				      				</div>
 				      				<div class="price">
@@ -834,8 +834,8 @@
 				      		<div class="col-price col-base col-sm-6 col-md-3">
 				      			<div class="price-table">
 				      				<div class="price-header" style="padding:27px 20px">
-											<h3 class="price-title">SOLUÇÕES PERSONALIZADAS</h3>
-											<p class="price-type">Solução Exclusiva</p>
+											<h3 class="price-title">AJWS 05</h3>
+											<p class="price-type">Layout diferenciado</p>
 				      				</div>
 				      				<div class="price">
 				      					<div class="price-amount">$599<sub>.00</sub></div>
