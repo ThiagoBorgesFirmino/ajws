@@ -6,6 +6,7 @@
 <!DOCTYPE HTML>
 <html lang="pt-br">
 <head>
+<link rel="canonical" href="https://siteparaempresadebrindes.com.br"/>
 <meta  charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AJWS - Seu Site de Brindes</title> 
