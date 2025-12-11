@@ -782,8 +782,8 @@
 											<p class="price-type">praticidade e economia</p>
 				      				</div>
 				      				<div class="price">
-				      					<div class="price-amount">R$399<sub>.00</sub></div>
-				      					<div class="price-period">Mensal/<br/>SETUP Layout R$1.999,00</div>
+				      					<div class="price-amount">R$443<sub>,33</sub></div>
+				      					<div class="price-period">Mensal/<br/>SETUP Layout R$2.221,11</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
@@ -811,8 +811,8 @@
 											<p class="price-type">Nosso plano mais vendido</p>
 				      				</div>
 				      				<div class="price">
-				      					<div class="price-amount">R$499<sub>.00</sub></div>
-				      					<div class="price-period">mensal/<br/>SETUP Layout R$2.999,00</div>
+				      					<div class="price-amount">R$554<sub>,44</sub></div>
+				      					<div class="price-period">mensal/<br/>SETUP Layout R$3.332,22</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
@@ -839,8 +839,8 @@
 											<p class="price-type">Layout diferenciado</p>
 				      				</div>
 				      				<div class="price">
-				      					<div class="price-amount">R$599<sub>.00</sub></div>
-				      					<div class="price-period">mensal/<br/>SETUP Layout R$3.999,00</div>
+				      					<div class="price-amount">R$665<sub>,56</sub></div>
+				      					<div class="price-period">mensal/<br/>SETUP Layout R$4.443,33</div>
 				      				</div>
 				      				<div class="price-body">
 				      					<ul class="price-features">
