@@ -1,4 +1,4 @@
-User-agent: Todo
-Allow: https://siteparaempresadebrindes.com.br/
+User-agent: *
+Allow: /
 
 Sitemap: https://siteparaempresadebrindes.com.br/sitemap.xml
